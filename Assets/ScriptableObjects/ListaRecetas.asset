@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4749780a1a8a9e54b9ff575fb10422de, type: 3}
+  m_Name: ListaRecetas
+  m_EditorClassIdentifier: 
+  Recetas:
+  - Nombre: Medipack
+    Item1: {fileID: 11400000, guid: 310efe1d70d22ed4f8f891d61173e4bc, type: 2}
+    Item1CantidadRequerida: 5
+    Item2: {fileID: 11400000, guid: 56c3787337b7ef4458bf1e7ad3a16e3e, type: 2}
+    Item2CantidadRequerida: 3
+    ItemResultado: {fileID: 11400000, guid: ccb921524b24c6b4a8ddad7792f1726b, type: 2}
+    ItemResultadoCantidad: 5
+  - Nombre: Tridente
+    Item1: {fileID: 11400000, guid: 9c192cb0bcb6c1f4199620e2b75745e9, type: 2}
+    Item1CantidadRequerida: 10
+    Item2: {fileID: 11400000, guid: 1837206e1930e9b45a3822e17298d2f5, type: 2}
+    Item2CantidadRequerida: 5
+    ItemResultado: {fileID: 11400000, guid: 802f2343f4f093e4cb087a40f4a8fa26, type: 2}
+    ItemResultadoCantidad: 1
+  - Nombre: Carne
+    Item1: {fileID: 11400000, guid: a0354904bd28e00408bdfb0b87697461, type: 2}
+    Item1CantidadRequerida: 3
+    Item2: {fileID: 11400000, guid: b3131c4d571581140a69af31b4bfedf1, type: 2}
+    Item2CantidadRequerida: 10
+    ItemResultado: {fileID: 11400000, guid: db5b38c38f51fc34d816461360b8d397, type: 2}
+    ItemResultadoCantidad: 5

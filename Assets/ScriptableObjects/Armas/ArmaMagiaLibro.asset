@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17c3cb970eb65c54b9427cd64aee17d3, type: 3}
+  m_Name: ArmaMagiaLibro
+  m_EditorClassIdentifier: 
+  ArmaIcono: {fileID: 21300000, guid: adff83f9629201046b077a1b0bf399cb, type: 3}
+  IconoSkill: {fileID: 6293972708541611500, guid: fb91e305de3c66d4cb1d3576ac53f5ab, type: 3}
+  Tipo: 0
+  "Da\xF1o": 4
+  ProyectilPrefab: {fileID: 7027260065240043476, guid: 60320f6efe97b4043918c98eaf223ff4, type: 3}
+  ManaRequerida: 10
+  ChanceCritico: 1.5
+  ChanceBloqueo: 0.5
